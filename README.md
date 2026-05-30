@@ -1,5 +1,7 @@
-Alejandra Veliz Garcia
+# Alejandra Veliz Garcia
+
 Backend and systems engineering · C++ · Python
+
 <table>
   <tr>
     <td valign="top">
